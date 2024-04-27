@@ -21,4 +21,6 @@ Turning to you for help, he would like you to
     movie array, displaying user-specified number of movie-records.
   </li>
 </ol>
-  
+
+## Learning Outcomes
+The purpose of this project is to allow me to practice Exception Handling and File I/O as well as other object-oriented concepts
